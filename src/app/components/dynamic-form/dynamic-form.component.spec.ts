@@ -53,8 +53,4 @@ describe('DynamicFormComponent', () => {
     }
     expect(myformgroup).toEqual(myformvalue)
   })
-
-  it( 'check login form', () =>{
-
-  })
 });
