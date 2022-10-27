@@ -1,0 +1,53 @@
+{
+    "controls": [
+      {
+        "name": "firstName",
+        "label": "First name",
+        "value": "",
+        "type": "text",
+        "validators": {
+          "required": true,
+          "minLength": 10
+        }
+      },
+      {
+        "name": "lastName",
+        "label": "Last name",
+        "value": "",
+        "type": "text",
+        "validators": {}
+      },
+      {
+        "name": "middleName",
+        "label": "Middle name",
+        "value": "",
+        "type": "text",
+        "validators": {}
+      },
+      {
+        "name": "age",
+        "label": "Age",
+        "value": "",
+        "type": "number",
+        "validators": {}
+      },
+      
+      {
+        "name": "comments",
+        "label": "Comments",
+        "value": "",
+        "type": "textarea",
+        "validators": {}
+      },
+      {
+        "name": "agreeTerms",
+        "label": "Do you agree?",
+        "value": "false",
+        "type": "checkbox",
+        "validators": {}
+      }
+      
+    ]
+  
+  }
+  

@@ -1,0 +1,7 @@
+{
+  "name": "dynamic_form",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
